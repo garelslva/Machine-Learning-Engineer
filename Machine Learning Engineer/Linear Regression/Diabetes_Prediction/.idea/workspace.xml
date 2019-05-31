@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96dc4c8b-9f69-4273-9bf7-68699be9277c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="07024826-823b-4841-a033-12eb793e743f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Machine Learning Engineer.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Machine Learning Engineer.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMC_Prediction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IMC_Prediction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../~WRL2988.tmp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,21 +16,13 @@
   <component name="FileEditorManager">
     <leaf />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Jupyter Notebook" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/imc_prediction.ipynb" />
-        <option value="$PROJECT_DIR$/../Diabetes_Prediction/plot_ols.ipynb" />
+        <option value="$PROJECT_DIR$/plot_ols.ipynb" />
       </list>
     </option>
   </component>
@@ -48,12 +43,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Diabetes_Prediction" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Documentos\ProjectsPython\Machine Learning Engineer\Linear Regression\IMC_Prediction\data" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../house_price_multidimensional" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -68,14 +58,14 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="IMC_Prediction" type="JupiterNotebook" factoryName="Jupyter Notebook">
-      <module name="IMC_Prediction" />
+    <configuration name="Unnamed" type="JupiterNotebook" factoryName="Jupyter Notebook" nameIsGenerated="true">
+      <module name="Diabetes_Prediction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="E:\Documentos\ProjectsPython\Machine Learning Engineer\Linear Regression\IMC_Prediction\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\Vinicius\AppData\Local\Programs\Python\Python35\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -91,20 +81,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96dc4c8b-9f69-4273-9bf7-68699be9277c" name="Default Changelist" comment="" />
-      <created>1559125730233</created>
+      <changelist id="07024826-823b-4841-a033-12eb793e743f" name="Default Changelist" comment="" />
+      <created>1559247459145</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559125730233</updated>
+      <updated>1559247459145</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
@@ -112,30 +106,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872504" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" weight="0.32872504" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.32872504" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32872504" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/imc_prediction.ipynb">
+    <entry file="file://$PROJECT_DIR$/plot_ols.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/bmi_and_life_expectancy.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Diabetes_Prediction/plot_ols.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
+          <selected id="2" />
         </state>
       </provider>
     </entry>
